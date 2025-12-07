@@ -44,6 +44,7 @@ NYHA – Нью-Йоркская ассоциация сердца, предст
 
 Предложение 0. 
 Критерий включения 2 (возраст≥18 лет). Везде указано однотипно «…-year-old». Пример: 82-year-old. 
+
 Критерий исключения 9. Пример: «hypertrophic obstructive cardiomyopathy», «nonischemic etiology»,  «myocarditis», «constrictive pericarditis»,  «uncorrected primary valvular heart disease».
 
 Предложение 1. 
